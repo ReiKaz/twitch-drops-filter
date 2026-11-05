@@ -3,6 +3,7 @@
   "name": "Twitch Drops Filter",
   "version": "1.1.0",
   "description": "Filter Open Drop Campaigns on twitch.tv/drops/campaigns by reward type and requirement.",
+  "homepage_url": "https://github.com/ReiKaz/twitch-drops-filter",
   "permissions": [
     "storage",
     "https://www.twitch.tv/*"
